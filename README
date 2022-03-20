@@ -2,6 +2,8 @@
   TITLE
 ===============
 
+This driver supports the following USB chipsets: rtl8723b, rtl8723du, rtl8723fu, rtl8725au, rtl8761au, rtl8192ee, rtl8812ae, rtl8761aw, rtl8761bu, rtl8821a, rtl8821cu, rtl8822bu, rtl8822cu, rtl8852au.
+This driver supports the following UART chipsets: rtl8723b, rtl8723d, rtl8723fs, rtl8725as, rtl8761a, rtl8761at, rtl8192ee, rtl8761b, rtl8821a, rtl8821c, rtl8822b, rtl8822cs, rtl8852as.
 The document describes how to support Realtek Bluetooth UART and USB driver in Linux system.
 
 ===============
